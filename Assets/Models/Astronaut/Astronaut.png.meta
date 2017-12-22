@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 59afbc04edd183d4084311c6e4dcf843
+timeCreated: 1513920700
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Astronaut_0
+    21300002: Astronaut_1
+    21300004: Astronaut_2
+    21300006: Astronaut_3
+    21300008: Astronaut_4
+    21300010: Astronaut_5
+    21300012: Astronaut_6
+    21300014: Astronaut_7
+    21300016: Astronaut_8
+    21300018: Astronaut_9
+    21300020: Astronaut_10
+    21300022: Astronaut_11
+    21300024: Astronaut_12
+    21300026: Astronaut_13
+    21300028: Astronaut_14
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Astronaut_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 167.92482
+        height: 241.00003
+      alignment: 9
+      pivot: {x: 0.48533624, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Astronaut_1
+      rect:
+        serializedVersion: 2
+        x: 201.90453
+        y: 320
+        width: 29.990784
+        height: 65.99997
+      alignment: 9
+      pivot: {x: 0.5033371, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Astronaut_2
+      rect:
+        serializedVersion: 2
+        x: 237.88792
+        y: 320.99997
+        width: 70.97188
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5017777, y: 0.5000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Astronaut_3
+      rect:
+        serializedVersion: 2
+        x: 307.85565
+        y: 320.99997
+        width: 70.97186
+        height: 49
+      alignment: 9
+      pivot: {x: 0.50223255, y: 0.5000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Astronaut_4
+      rect:
+        serializedVersion: 2
+        x: 379.82245
+        y: 320
+        width: 29.990753
+        height: 65.99997
+      alignment: 9
+      pivot: {x: 0.5060754, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Astronaut_5
+      rect:
+        serializedVersion: 2
+        x: 434.79706
+        y: 308.00003
+        width: 73.97046
+        height: 106.99997
+      alignment: 9
+      pivot: {x: 0.50294363, y: 0.52336437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Astronaut_6
+      rect:
+        serializedVersion: 2
+        x: 259.87778
+        y: 243.99998
+        width: 45.98343
+        height: 81.000015
+      alignment: 9
+      pivot: {x: 0.50283885, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Astronaut_7
+      rect:
+        serializedVersion: 2
+        x: 307.85565
+        y: 245.00002
+        width: 45.9834
+        height: 79.999985
+      alignment: 9
+      pivot: {x: 0.5033203, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Astronaut_8
+      rect:
+        serializedVersion: 2
+        x: 388.81827
+        y: 127.999985
+        width: 124.18173
+        height: 146.00002
+      alignment: 9
+      pivot: {x: 0.5208635, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Astronaut_9
+      rect:
+        serializedVersion: 2
+        x: 18.988935
+        y: 10.000001
+        width: 101.957565
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5003167, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Astronaut_11
+      rect:
+        serializedVersion: 2
+        x: 340.84042
+        y: 100.99999
+        width: 55.97879
+        height: 28.000008
+      alignment: 9
+      pivot: {x: 0.5030407, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Astronaut_12
+      rect:
+        serializedVersion: 2
+        x: 139.93312
+        y: 24.000002
+        width: 70.97188
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5011405, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Astronaut_13
+      rect:
+        serializedVersion: 2
+        x: 295.86118
+        y: 0
+        width: 115.95108
+        height: 97.00001
+      alignment: 9
+      pivot: {x: 0.5014079, y: 0.48969066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Astronaut_14
+      rect:
+        serializedVersion: 2
+        x: 419.80396
+        y: 0
+        width: 83.96585
+        height: 101.00001
+      alignment: 9
+      pivot: {x: 0.5025382, y: 0.47524747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99216306800316
+  assetBundleName: 
+  assetBundleVariant: 
